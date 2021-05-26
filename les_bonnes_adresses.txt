@@ -1,1 +1,2 @@
 https://github.com
+https://developer.mozilla.org/fr/
